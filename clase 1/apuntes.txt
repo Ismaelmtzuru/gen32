@@ -1,0 +1,57 @@
+-----------------------------------------HTML
+Lenguaje de marcado de hipertexto.
+Es la base de todas las paginas web,  NO ES UN LENGUAJE DE PROGRAMACIÓN.
+- Las etiquetas no llevan espacio.
+- El nombre del atributo y valor van separados por un = y se definen en comillas.
+- Todas las etiquetas pueden tener atributos.
+
+----------------------------------------ETIQUETAS HTML
+<h1 - h6>,  Definen el tema/título de la sección. El uno define un texto más grande y entre mayor el número, más pequeño el texto.
+
+<p></p>, define un párrafo del texto.
+
+<a href="url_de_página"></a>, Define un enlace a otra página
+
+< img src="ruta_imágen" alt="descripción de la imagen">, define una imagen.
+
+<span></span>, define un texto sin espacions ni estilos.
+
+<!DOCTYPE html>, indica que el documento está bajo el estandar de html5
+
+<html lang="es">, representa la raíz de un documento html. Es una buen práctica indicar el idioma mediante el atributo lang.
+
+<!-- comentario -->, Define un cmentario dentreo del código.
+
+<head></head>, Incluye la colección de metadatos sobre el documentos y los elaces a scrptis y hojas de estilo.
+
+<title></title> Define el título del documento
+
+<meta> Defin secciones de la página.
+
+<style></style> Permite escribir estilos css en el documento.
+
+-----------------------------------------Etiquetas semánticas = son aquellas que nos ayudan a dividir la página por secciones.
+
+<header></header> Cabecera de la página
+
+<nav></nav> Define un menú de navegación.
+
+<main></main> Contenido principal del coumento, solo puede haber 1.
+
+<section></section> Define secciones de la página.
+
+<article></article> Define contenido
+
+<aside></aside> Define la barra lateral
+
+<footer></footer> Define la parte final de la página u otros elementos.
+
+
+
+tarea 1
+-- terminos y condiciones de spotify --
+Se replican los 7 punos, sin estilos. anotar 3 parrafos de cada punto.
+Investigar UL para hacer listas
+
+--copiar código de como crear tablas--
+
